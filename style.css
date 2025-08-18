@@ -5,3 +5,10 @@ body{
 
 
 }
+header{ 
+border-bottom: solid 2px rgb(lightblue, green, blue);
+padding: 20px;
+font-size: 32px;
+color: rbd lightblue;
+
+}
